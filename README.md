@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fiordarancio
 - 👀 I’m interested in game development, full-stack development, design and illustration
 - 🌱 I’m currently learning more Unity and C#
-- 💞️ I’m looking to collaborate on game development
+- 💞️ I’m looking to collaborate on making games
 - 📫 How to reach me: on Discord Fiordarancio#7870, on Telegram @Fiordarancio
 
 <!---
