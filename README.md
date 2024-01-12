@@ -1,6 +1,6 @@
 Trying to code some nice stuff.
 
-I published mini-games and jams on (itch.io)[https://fiordarancio.itch.io/]
+I published mini-games and jams on [itch.io](https://fiordarancio.itch.io)
 <!---
 - 👋 Hi, I’m @Fiordarancio
 - 👀 I’m interested in game development, design and illustration
