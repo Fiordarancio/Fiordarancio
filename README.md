@@ -1,4 +1,4 @@
-Trying to code some nice stuff. My games and jams are on [itch.io](https://fiordarancio.itch.io)
+Coding some nice stuff. My games and jams are on [itch.io](https://fiordarancio.itch.io)
 <!---
 - 👋 Hi, I’m @Fiordarancio
 - 👀 I’m interested in game development, design and illustration
